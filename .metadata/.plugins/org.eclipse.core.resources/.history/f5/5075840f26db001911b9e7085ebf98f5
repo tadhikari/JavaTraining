@@ -1,0 +1,19 @@
+Answer the following
+
+a. Identify two cases of hierchy in the given problem statement
+
+Ans: 1. full time lecturers and visiting members can be categorized as children of lecturers class
+     2. Student and Staff both can be considered as children of User class as they both have access to 
+     	the system and might share certain similar functionalities as well as have different use cases.
+
+b. Identify the common behaviour among the day scholar, host-elite, graduate and post graduate students
+
+Ans: 
+
+c. Identify the different layers possible in this system in terms of the users of the systems
+
+Ans: 
+
+d. The admin staff wants to generate a report containing the score of students in a batch in the following manner:
+
+Ans: 

@@ -1,0 +1,10 @@
+a.) student name, student id, course registered, gpa, standing (semester wise), residential status.
+I think other than student name and gpa everything else can be exposed.
+
+b.) Only one method is sufficient to calulate the grade of different type of student. Even though the declaration of the method
+	might be same but the implementation will be different.
+
+c.) setStudentId()
+	getStudentid()
+	setStudentName()
+	getStudentName()

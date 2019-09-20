@@ -1,0 +1,18 @@
+package Assignment9;
+
+public class Student {
+	
+	static int numberOfObjects= 0;
+	
+	
+	public Student() {
+		numberOfObjects+=1;
+	}
+	
+	
+	public Student(char sType, String firstName, String lastName) {
+		
+	}
+	
+	
+}

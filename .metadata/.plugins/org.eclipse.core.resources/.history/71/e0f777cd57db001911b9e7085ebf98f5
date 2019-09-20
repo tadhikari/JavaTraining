@@ -1,0 +1,11 @@
+package Assignment4;
+
+public class Student {
+	
+	private int studentid;
+	private char studentType;
+	
+	
+	
+	
+}

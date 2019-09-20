@@ -1,0 +1,21 @@
+package Assignment3;
+
+import java.util.Scanner;
+
+public class Switch_Case_Statement {
+
+	public static void main(String[] args) {
+		
+		char defaultGrade = 'B';
+		
+		Scanner scan = new Scanner(System.in);
+		
+		switch
+		
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package Assignment3;
+
+public class Switch_Case_Statement {
+
+	public static void main(String[] args) {
+		
+		char defaultGrade = 'b';
+		
+		
+
+	}
+
+}

@@ -1,0 +1,22 @@
+package assignment6;
+
+public class Operator {
+	
+	public static void main(String[] args) {
+		
+		int intVal=10;
+		float floatVal = 3.0f;
+		boolean bool1 = true;
+		boolean bool2 = false;
+		boolean bool3 = true;
+		
+		
+		//Arithematics: Modulus Operator
+		
+		System.out.println("Aithematic");
+		
+		
+		
+	}
+	
+}

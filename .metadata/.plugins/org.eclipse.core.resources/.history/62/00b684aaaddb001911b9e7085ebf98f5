@@ -1,0 +1,29 @@
+package Assignment8;
+
+public class Class1 {
+	
+	int i;
+	int j;
+	boolean k;
+	boolean l;
+	
+	public class1() {
+		i = 22;
+		j = 14000;
+	
+	}
+	
+	
+	public static void main(String args[]) {
+		
+		
+		class
+		
+		
+		
+		
+		
+		
+	}
+	
+}

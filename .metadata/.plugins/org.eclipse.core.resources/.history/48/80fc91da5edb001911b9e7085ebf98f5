@@ -1,0 +1,23 @@
+package Assignment6;
+
+public class UserType {
+
+	String name;
+	
+	UserType (String parameterVal){
+		name = parameterVal ;
+	}
+	
+	
+	UserType() {
+		this("student");
+	}
+	
+	public static void main(String args[]) {
+		
+		UserType usertype1 = new UserType("Faculty");
+		
+		
+	}
+
+}

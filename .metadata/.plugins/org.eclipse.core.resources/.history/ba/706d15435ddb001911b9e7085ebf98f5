@@ -1,0 +1,27 @@
+package Assignment6;
+
+public class UserType {
+
+	String name;
+	
+	UserType (String parameterVal){
+		name = parameterVal ;
+	}
+	
+	
+	UserType() {
+		this("student")
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

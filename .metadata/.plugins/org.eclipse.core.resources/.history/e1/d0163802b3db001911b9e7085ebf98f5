@@ -1,0 +1,40 @@
+package Assignment9;
+
+public class Student {
+	
+	int studentId;
+	private String lastName;
+	private String firstName;
+	private char sType;
+	
+	static int numberOfObjects = 550;
+	
+	
+	public Student() {
+		numberOfObjects++;
+	}
+	
+	
+	public Student(char sType, String firstName, String lastName) {
+		this();
+		this.sType = sType;
+		this.firstName = firstName;
+		this.lastName = lastName;
+	}
+	
+	public void displayDetail() {
+		System.out.println("ID: "+numberOfObjects);
+		System.out.println("Student Type: "+ sType);
+		System.out.println("First Name: "+ firstName);
+		System.out.println("Last Name: "+lastName);
+	}
+	
+	public static void main(String[] args) {
+	
+		Student s1 =  new Student('D',"Bony","Thomas");
+	
+	
+	}
+	
+		
+}

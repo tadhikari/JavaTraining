@@ -1,0 +1,22 @@
+package Assignment4;
+
+public class CourseManagement {
+
+	public static void main(String[] args) {
+		
+		Student student = new Student();
+		
+		student.setStudentid(100);
+		student.setStudentType('A');
+		
+		System.out.println();
+		System.out.println();
+		
+	}
+	
+	
+	
+	
+	
+	
+}

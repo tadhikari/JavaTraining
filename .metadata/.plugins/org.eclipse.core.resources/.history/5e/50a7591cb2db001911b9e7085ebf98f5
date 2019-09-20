@@ -1,0 +1,34 @@
+package Assignment9;
+
+public class Student {
+	
+	int studentId;
+	private String lastName;
+	private String firstName;
+	private char sType;
+	
+	static int numberOfObjects = 0;
+	
+	
+	public Student() {
+		numberOfObjects+=1;
+	}
+	
+	
+	public Student(char sType, String firstName, String lastName) {
+		this();
+		this.firstName = firstName;
+		this.lastName = lastName;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
